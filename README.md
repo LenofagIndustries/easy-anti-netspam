@@ -7,5 +7,9 @@ Another anti net-spam... wow!
 3. Change maximum nets per second if you want
 4. Done!
 
-## Did you pasted it?
-I didn't!!! Wow!
+## Usage
+Just install it on your server and enjoy (in)security!
+
+### NET-logging
+You can also use NET-logger by it's convar - `gmlfi_net_log 1`
+> `[NETLOG] PlayerName [192.168.1.1:27005] - Network_Name`
